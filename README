@@ -1,0 +1,7 @@
+-> Extracts xkcd comics
+-> Uses Threading to circumvent I/O bottleneck
+
+
+TODO:
+-> Make program interactive
+-> Use urllib3 to be able to reuse sockets
